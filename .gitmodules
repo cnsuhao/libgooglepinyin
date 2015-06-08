@@ -1,0 +1,3 @@
+[submodule "libgooglepinyin"]
+	path = libgooglepinyin
+	url = https://github.com/qgears/libgooglepinyin.git
